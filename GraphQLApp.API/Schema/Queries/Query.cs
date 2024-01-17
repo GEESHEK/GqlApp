@@ -1,7 +1,7 @@
 ﻿using Bogus;
-using Microsoft.AspNetCore.Server.Kestrel.Transport.Quic;
+using GraphQLApp.API.Schema.Types;
 
-namespace GraphQLApp.API.Schema;
+namespace GraphQLApp.API.Schema.Queries;
 
 public class Query
 {
