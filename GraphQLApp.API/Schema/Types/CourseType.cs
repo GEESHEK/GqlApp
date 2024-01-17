@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace GraphQLApp.API.Schema;
+﻿namespace GraphQLApp.API.Schema.Types;
 
 public class CourseType
 {
